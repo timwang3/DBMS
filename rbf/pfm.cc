@@ -13,6 +13,7 @@ PagedFileManager* PagedFileManager::instance()
 
 PagedFileManager::PagedFileManager()
 {
+	int i = 1;
 }
 
 
