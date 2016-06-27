@@ -43,7 +43,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="rbf/rbftest9.cc|rbf/rbftest8b.cc|rbf/rbftest8.cc|rbf/rbftest7.cc|rbf/rbftest6.cc|rbf/rbftest5.cc|rbf/rbftest4.cc|rbf/rbftest3.cc|rbf/rbftest2.cc|rbf/rbftest12.cc|rbf/rbftest11.cc|rbf/rbftest10.cc" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="rbf/rbftest7.cc|rbf/rbftest6.cc|rbf/rbftest5.cc|rbf/rbftest4.cc|rbf/rbftest3.cc|rbf/rbftest1.cc|rbf/rbftest2.cc|rbf/rbftest9.cc|rbf/rbftest8b.cc|rbf/rbftest12.cc|rbf/rbftest11.cc|rbf/rbftest10.cc" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -114,4 +114,6 @@
 		</scannerConfigBuildInfo>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>

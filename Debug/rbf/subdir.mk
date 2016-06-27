@@ -6,17 +6,17 @@
 CC_SRCS += \
 ../rbf/pfm.cc \
 ../rbf/rbfm.cc \
-../rbf/rbftest1.cc 
+../rbf/rbftest7.cc 
 
 OBJS += \
 ./rbf/pfm.o \
 ./rbf/rbfm.o \
-./rbf/rbftest1.o 
+./rbf/rbftest7.o 
 
 CC_DEPS += \
 ./rbf/pfm.d \
 ./rbf/rbfm.d \
-./rbf/rbftest1.d 
+./rbf/rbftest7.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
